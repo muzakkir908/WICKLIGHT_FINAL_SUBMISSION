@@ -100,7 +100,3 @@ There are 6 Piskel files. You can open and change them in Piskel:
 1. Click **Import**, then **Browse images**, and choose a strip from `spritesheets/`.
 2. Choose **Import as spritesheet**. Set the frame size to **16 × 16** (for the door: **16 × 32**).
 3. Click **Import**.
-
-## How the art was made
-
-The art was not drawn by hand in Piskel. An AI assistant wrote each sprite as a small text map (one letter = one pixel) in a computer program. The program then saved all the PNG files, sprite sheets and Piskel files. The program is not part of this package. See [`../05_Documentation/AI_Use_Note.md`](../05_Documentation/AI_Use_Note.md).
