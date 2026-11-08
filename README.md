@@ -14,7 +14,7 @@ You are a little candle in a dark cave. Collect 5 embers, jump over spikes, stay
 | [`02_Pixel_Art_Assets/`](02_Pixel_Art_Assets) | Sprites, tiles, background, sprite sheets, Piskel files and colours |
 | [`03_Level_Design/`](03_Level_Design) | The level map, the map with notes, the grid map and the level text |
 | [`04_UI_and_Prototype/`](04_UI_and_Prototype) | The 4 game screens, the HTML prototype and the Figma guide |
-| [`05_Documentation/`](05_Documentation) | The submission document and the AI use note |
+| [`05_Documentation/`](05_Documentation) | The submission document|
 
 **Start here:** [`05_Documentation/Submission_Document.md`](05_Documentation/Submission_Document.md)
 
@@ -27,9 +27,5 @@ You do not need to install anything.
 3. **Try the HTML prototype.** Download the folder (green **Code** button → **Download ZIP**) and unzip it. Then double-click `04_UI_and_Prototype/prototype/index.html`. It opens in your web browser. It works without the internet.
 4. **Open the Figma prototype.** Use the Figma link in the [submission document](05_Documentation/Submission_Document.md). Click **Present (▶)** and click with the mouse.
 5. **Open the art in Piskel.** Go to [piskelapp.com](https://www.piskelapp.com), click **Create Sprite**, then the **folder icon (Open)**, and choose a file from `02_Pixel_Art_Assets/piskel/`.
-
-## How the project was made
-
-An AI assistant helped to make this project. Read [`05_Documentation/AI_Use_Note.md`](05_Documentation/AI_Use_Note.md) to see what the AI did and what I did.
 
 ![Annotated level map](03_Level_Design/maps/level_map_annotated.png)
