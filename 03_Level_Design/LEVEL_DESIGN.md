@@ -80,8 +80,4 @@ Yes. The candle can jump 3 tiles up and over a gap of 4 tiles. Every jump on the
 | High platform → platform 3 | down 2 | 1 tile | ✅ |
 | Platform 3 → ground | down 3 | 1 tile | ✅ |
 
-A computer program checked these jumps. It also checked that the player can reach all 5 embers and the door from the start.
 
-## How the level was made
-
-I gave the rules for the level: one screen, one route, 5 embers, 2–3 spike groups, 1–2 moths and one exit. An AI assistant designed the map, made the map pictures and wrote these notes. I checked the map. See [`../05_Documentation/AI_Use_Note.md`](../05_Documentation/AI_Use_Note.md).
